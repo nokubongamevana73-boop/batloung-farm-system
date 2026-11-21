@@ -1,4 +1,4 @@
-const API_BASE = '/api';
+const API_BASE = 'https://batloung-backend-42ux.onrender.com/api';
 
 async function request(endpoint, options = {}) 
 {
